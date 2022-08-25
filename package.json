@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR Code generator",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [
+    "static",
+    "template",
+    "simon cateau",
+    "qr code"
+  ],
+  "author": "Simon Cateau",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.4"
+  }
+}
